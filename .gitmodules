@@ -1,0 +1,4 @@
+[submodule "r3e-api"]
+	path = r3e-api
+	url = https://github.com/MorGuux/r3e-api.git
+	branch = master
